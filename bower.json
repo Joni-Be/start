@@ -1,0 +1,22 @@
+{
+  "name": "optimizedhtml",
+  "description": "OptimizedHTML - Start HTML Template",
+  "main": "index.js",
+  "authors": [
+    "Soslan guev"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/joni-be/start",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize.css": "^8.0.0",
+    "fontawesome": "#v4.7.0"
+  }
+}
